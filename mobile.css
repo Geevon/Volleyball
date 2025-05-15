@@ -17,7 +17,7 @@
   }
 
   .logo h1 {
-    font-size: 1.2rem; /* smaller title on small screens */
+    font-size: 1.5rem; /* smaller title on small screens */
     margin: 0;
     flex: 1 1 auto; /* allow it to shrink but take available space */
   }
